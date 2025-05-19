@@ -30,16 +30,14 @@ It allows users to ask questions and get meaningful responses — including prog
 ---
 ## ⚙️ Setup Instructions
 
-### 1. Clone the Repository
-  git clone https://github.com/yourusername/qna-chatbot-ollama.git
-  cd qna-chatbot-ollama
 
-### 2. Create a Virtual Environment (Python 3.10)
+
+###  Create a Virtual Environment (Python 3.10)
 # On Windows:
   conda create -p venv python==3.10
 # On macOS/Linux:
   source venv/bin/activate
-### 3. Install required packages
+### Install required packages
   pip install -r requirements.txt
 
 ### Create a .env file in root:
