@@ -49,3 +49,12 @@ It allows users to ask questions and get meaningful responses — including prog
 ### Run the App
   Make sure Ollama is installed and running.
   streamlit run app.py
+
+![Screenshot 2025-05-19 150945](https://github.com/user-attachments/assets/4cb9e96b-9e74-4d30-902f-36baf59a7448)
+![Screenshot 2025-05-19 151028](https://github.com/user-attachments/assets/66d603a6-0192-47ef-936c-6a6971d92136)
+![Screenshot 2025-05-19 151213](https://github.com/user-attachments/assets/0471e3b6-dbcc-4d25-89c3-4628a81b6eba)
+![Screenshot 2025-05-19 151433](https://github.com/user-attachments/assets/8faa2ac1-595c-41fa-b9c1-c5e8fe366194)
+![Screenshot 2025-05-19 151449](https://github.com/user-attachments/assets/61b5ca04-14be-423b-ba69-438606335099)
+
+
+
