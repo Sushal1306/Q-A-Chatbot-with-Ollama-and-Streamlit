@@ -48,6 +48,11 @@ It allows users to ask questions and get meaningful responses — including prog
   Make sure Ollama is installed and running.
   streamlit run app.py
 
+### 🧩Room for Expansion:
+  Can plug in other open models like Gemma 2, LLaMA, etc.
+  UI enhancements possible using Streamlit components
+  Can scale this into a Retrieval Augmented Generation (RAG) app for contextual enterprise-level QA
+
 ![Screenshot 2025-05-19 150945](https://github.com/user-attachments/assets/4cb9e96b-9e74-4d30-902f-36baf59a7448)
 ![Screenshot 2025-05-19 151028](https://github.com/user-attachments/assets/66d603a6-0192-47ef-936c-6a6971d92136)
 ![Screenshot 2025-05-19 151213](https://github.com/user-attachments/assets/0471e3b6-dbcc-4d25-89c3-4628a81b6eba)
